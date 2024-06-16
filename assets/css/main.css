@@ -98,7 +98,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: url("/assets/images/movie-website-landing-page-images/movies/bg-saw_v.jpg") no-repeat;
+    background: url('/assets/images/movie-website-landing-page-images/movies/bg-saw_v.jpg') no-repeat;
     background-size: cover;
     background-position:center;
     overflow: hidden;
